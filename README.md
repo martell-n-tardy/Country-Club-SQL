@@ -35,19 +35,5 @@ Results should look like:
 If you see this then things are working and you should be able to edit the file to add in any queries you want. 
 
 Your SQL queries will occur directly on the `sqlite_db_pythonsqlite.db` database file.
-Just edit the query section of the 'select_all_tasks(conn)' function as seen below.
-
-- - - - https://user-images.githubusercontent.com/69739726/103509874-f0bc8380-4e18-11eb-9a67-ceeec0cc9e05.png
-
-## Contributing to Country-Club-SQL
-To contribute to Country-Club-SQL, follow these steps:
-
-1. Fork this repository.
-2. Create a branch: git checkout -b <branch_name>.
-3. Make your changes and commit them: git commit -m '<commit_message>'
-4. Push to the original branch: git push origin <project_name>/<location>
-5. Create the pull request.
-Alternatively see the GitHub documentation on creating a pull request.
-
-## Contact
-If you want to contact me you can reach me at mtardy888@gmail.com.
+Just edit the query section of the 'select_all_tasks(conn)' function as seen through this link
+https://user-images.githubusercontent.com/69739726/103509874-f0bc8380-4e18-11eb-9a67-ceeec0cc9e05.png
