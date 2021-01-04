@@ -4,9 +4,9 @@ A case study using Juptyer Notebook and SQLite to tackle a series of business qu
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
 
-*You have jupyter notebook installed
-*You have have at least an intermediate understanding of SQL and databases
-*You are familiar with relational databases in Python
+* You have jupyter notebook installed
+* You have have at least an intermediate understanding of SQL and databases
+* You are familiar with relational databases in Python
 
 ## Installing Country-Club-SQL
 To install Country-Club_SQL, follow these steps:
@@ -36,4 +36,5 @@ If you see this then things are working and you should be able to edit the file 
 
 Your SQL queries will occur directly on the `sqlite_db_pythonsqlite.db` database file.
 Just edit the query section of the 'select_all_tasks(conn)' function as seen through this link
+
 https://user-images.githubusercontent.com/69739726/103509874-f0bc8380-4e18-11eb-9a67-ceeec0cc9e05.png
