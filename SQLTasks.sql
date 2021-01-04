@@ -68,7 +68,6 @@ facility, the name of the member formatted as a single column, and the cost.
 Order by descending cost, and do not use any subqueries. */
 
 A: 
-/* Query for cost >$30 for guests
 SELECT f.name, CONCAT(m.firstname, ' ', m.surname) AS membername, 
 f.guestcost*b.slots as cost
 FROM `Members` AS m
@@ -80,7 +79,6 @@ WHERE m.memid = 0 AND f.guestcost*b.slots > 30 AND date(b.starttime) = '2012-09-
 
 UNION
 
-/* Query for cost >$30 for members
 SELECT f.name, CONCAT(m.firstname, ' ', m.surname) AS membername, 
 f.membercost*b.slots
 FROM `Members` AS m
