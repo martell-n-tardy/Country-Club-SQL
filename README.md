@@ -50,7 +50,7 @@ If you see this then things are working :+1: and you should be able to edit the 
 Your SQL queries will occur directly on the `sqlite_db_pythonsqlite.db` database file.
 Just edit the query section of the `def select_all_tasks(conn)` function as seen below:
 
-[!Image](https://github.com/martell-n-tardy/Country-Club-SQL/blob/main/Function%20Image.png) <br />
+![Image](https://github.com/martell-n-tardy/Country-Club-SQL/blob/main/Function%20Image.png) <br />
 
 ## Insights
 To review my queries for this case study, open the document **SQLTasks.sql**.
