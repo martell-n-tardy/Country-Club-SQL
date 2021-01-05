@@ -52,6 +52,8 @@ Just edit the query line of the `def select_all_tasks(conn)` function as seen th
 
 https://user-images.githubusercontent.com/69739726/103509874-f0bc8380-4e18-11eb-9a67-ceeec0cc9e05.png
 
+
+###### Insights
 To review my queries on this case study, open the document **SQLTasks.sql** in this repository.
 Or go to it directly from here: https://github.com/martell-n-tardy/Country-Club-SQL/blob/main/SQLTasks.sql
 
