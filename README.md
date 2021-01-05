@@ -54,6 +54,7 @@ If you found this project interesting and would like to continue sharping your S
 I've included practice SQL interview questions within the document titled "SQL Practice Interview Questions" in this repository.
 
 Additionally, I found the HackerRank SQL Challenges to be both fun and informative to the learning process as well. 
+
 Here's the link, https://www.hackerrank.com/domains/sql. Give a few of them a try!
 
 And as always thanks for stopping by :wave: :sparkles:
