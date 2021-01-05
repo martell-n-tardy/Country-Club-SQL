@@ -57,14 +57,14 @@ query1 = """
 ```
 
 ## Insights
-To review my queries on this case study, open the document **SQLTasks.sql** in this repository.
+To review my queries for this case study, open the document **SQLTasks.sql**.
 Or go to it directly from here: https://github.com/martell-n-tardy/Country-Club-SQL/blob/main/SQLTasks.sql
 
 
 ## Additional Resources
 
 If you found this project interesting and would like to continue sharpening your SQL skills, 
-I've included practice SQL interview questions through the document titled **SQL Practice Interview Questions** in this repository.
+I've included practice SQL interview questions through the document titled **SQL Practice Interview Questions**.
 
 Or go to it directly from here: https://github.com/martell-n-tardy/Country-Club-SQL/blob/main/SQL%20Practice%20Interview%20Questions.pdf
 
