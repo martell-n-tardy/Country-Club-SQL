@@ -6,7 +6,9 @@ Before you begin, ensure you have met the following requirements:
 
 * You have jupyter notebook installed
 * You have have at least an intermediate understanding of SQL and databases
+  Strongly suggest completing the "Introduction to SQL for Data Science", "Joining Data in SQL", and "Intermediate SQL" courses offered through DataCamp
 * You are familiar with relational databases in Python
+  Again, DataCamp offers a course called "Working with Relational Databases in Python", especially chapter 4, that will be sufficient for this requirement 
 
 ## Installing Country-Club-SQL
 To install Country-Club_SQL, follow these steps:
@@ -38,3 +40,11 @@ Your SQL queries will occur directly on the `sqlite_db_pythonsqlite.db` database
 Just edit the query section of the `def select_all_tasks(conn)` function as seen through this link
 
 https://user-images.githubusercontent.com/69739726/103509874-f0bc8380-4e18-11eb-9a67-ceeec0cc9e05.png
+
+If you found this project interesting and would like to continue sharping your SQL skills, 
+I've included practice SQL interview questions within the document titled "SQL Practice Interview Questions" in this repository.
+
+Additionally, I found the HackerRank SQL Challenges to be both fun and informative to the learning process as well. 
+Here's the link, https://www.hackerrank.com/domains/sql. Give a few of them a try!
+
+And as always thanks for stopping by :wave: :sparkles:
