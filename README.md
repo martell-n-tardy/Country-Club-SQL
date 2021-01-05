@@ -17,7 +17,7 @@ Before you begin, ensure you have met the following requirements:
   
     If not, again DataCamp offers a course 
     - Working with Relational Databases in Python
-    specifically chapter 4 of this course will be sufficient for this requirement 
+    (specifically chapter 4 of this course will be sufficient for this requirement) 
 
 ## Installing Country-Club-SQL
 To install Country-Club_SQL, follow these steps:
