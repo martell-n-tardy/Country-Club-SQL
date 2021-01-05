@@ -48,9 +48,13 @@ Results should look like:
 If you see this then things are working :+1: and you should be able to edit the file to add in any queries you want. 
 
 Your SQL queries will occur directly on the `sqlite_db_pythonsqlite.db` database file.
-Just edit the query line of the `def select_all_tasks(conn)` function as seen in the screenshot below:
-
-![Image of Function](https://github.com/martell-n-tardy/Country-Club-SQL/blob/main/Function%20Image.png)
+Just edit the query line of the `def select_all_tasks(conn)` function as seen below:
+```
+query1 = """
+    SELECT name
+    FROM Facilities
+    """
+```
 
 ## Insights
 To review my queries on this case study, open the document **SQLTasks.sql** in this repository.
