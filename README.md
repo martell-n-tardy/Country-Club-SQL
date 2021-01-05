@@ -50,11 +50,15 @@ Just edit the query section of the `def select_all_tasks(conn)` function as seen
 
 https://user-images.githubusercontent.com/69739726/103509874-f0bc8380-4e18-11eb-9a67-ceeec0cc9e05.png
 
+
+## Additional Resources
 If you found this project interesting and would like to continue sharping your SQL skills, 
-I've included practice SQL interview questions within the document titled "SQL Practice Interview Questions" in this repository.
+I've included practice SQL interview questions within the document titled **SQL Practice Interview Questions** in this repository 
+Direct link here: https://github.com/martell-n-tardy/Country-Club-SQL/blob/main/SQL%20Practice%20Interview%20Questions.pdf.
 
-Additionally, I found the HackerRank SQL Challenges to be both fun and informative to the learning process as well. 
 
+Additionally, I found the **HackerRank SQL Challenges** to be both fun and informative to the learning process as well. 
 Here's the link, https://www.hackerrank.com/domains/sql. Give a few of them a try!
+
 
 And as always thanks for stopping by :wave: :sparkles:
