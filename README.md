@@ -48,7 +48,7 @@ Results should look like:
 If you see this then things are working :+1: and you should be able to edit the file to add in any queries you want. 
 
 Your SQL queries will occur directly on the `sqlite_db_pythonsqlite.db` database file.
-Just edit the query line of the `def select_all_tasks(conn)` function as seen below:
+Just edit the query section of the `def select_all_tasks(conn)` function as seen below:
 ```
 query1 = """
     SELECT name
