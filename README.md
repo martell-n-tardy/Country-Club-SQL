@@ -45,20 +45,20 @@ Results should look like:
 (8, 'Pool Table', 0, 5, 400, 15)
 ```
 
-If you see this then things are working and you should be able to edit the file to add in any queries you want. 
+If you see this then things are working :+1: and you should be able to edit the file to add in any queries you want. 
 
 Your SQL queries will occur directly on the `sqlite_db_pythonsqlite.db` database file.
-Just edit the query section of the `def select_all_tasks(conn)` function as seen through this link
+Just edit the query line of the `def select_all_tasks(conn)` function as seen through this link:
 
 https://user-images.githubusercontent.com/69739726/103509874-f0bc8380-4e18-11eb-9a67-ceeec0cc9e05.png
 
 
 ## Additional Resources
 
-If you found this project interesting and would like to continue sharping your SQL skills, 
-I've included practice SQL interview questions within the document titled **SQL Practice Interview Questions** in this repository.
+If you found this project interesting and would like to continue sharpening your SQL skills, 
+I've included practice SQL interview questions through the document titled **SQL Practice Interview Questions** in this repository.
 
-Direct link here: https://github.com/martell-n-tardy/Country-Club-SQL/blob/main/SQL%20Practice%20Interview%20Questions.pdf.
+Or go to it directly from here: https://github.com/martell-n-tardy/Country-Club-SQL/blob/main/SQL%20Practice%20Interview%20Questions.pdf
 
 
 Additionally, I found the **HackerRank SQL Challenges** to be both fun and informative to the learning process as well. 
