@@ -8,13 +8,14 @@ Before you begin, ensure you have met the following requirements:
 * You have have at least an intermediate understanding of SQL and databases
 
     If not, I strongly suggest completing the following courses offered through DataCamp:
+      
       - Introduction to SQL for Data Science
       - Joining Data in SQL
       - Intermediate SQL
   
 * You are familiar with relational databases in Python
   
-    If not, again DataCamp offers a course called "Working with Relational Databases in Python"
+    If not, again DataCamp offers a course - Working with Relational Databases in Python
     specifically chapter 4 of this course will be sufficient for this requirement 
 
 ## Installing Country-Club-SQL
