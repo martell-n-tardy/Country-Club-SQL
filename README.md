@@ -70,6 +70,7 @@ Or go to it directly from here: https://github.com/martell-n-tardy/Country-Club-
 
 
 Additionally, I found the **HackerRank SQL Challenges** to be both fun and informative to the learning process. 
+
 Here's the link, https://www.hackerrank.com/domains/sql. Give a few of them a try!
 
 
