@@ -2,6 +2,7 @@
 A case study using Juptyer Notebook and SQLite to tackle a series of business questions on a database containing information about a country club. 
 
 ## Prerequisites
+
 Before you begin, ensure you have met the following requirements:
 
 * You have jupyter notebook installed
@@ -20,6 +21,7 @@ Before you begin, ensure you have met the following requirements:
     (specifically chapter 4 of this course will be sufficient for this requirement) 
 
 ## Installing Country-Club-SQL
+
 To install Country-Club_SQL, follow these steps:
 
 Linux and macOS:
@@ -52,8 +54,10 @@ https://user-images.githubusercontent.com/69739726/103509874-f0bc8380-4e18-11eb-
 
 
 ## Additional Resources
+
 If you found this project interesting and would like to continue sharping your SQL skills, 
-I've included practice SQL interview questions within the document titled **SQL Practice Interview Questions** in this repository 
+I've included practice SQL interview questions within the document titled **SQL Practice Interview Questions** in this repository.
+
 Direct link here: https://github.com/martell-n-tardy/Country-Club-SQL/blob/main/SQL%20Practice%20Interview%20Questions.pdf.
 
 
