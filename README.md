@@ -6,9 +6,17 @@ Before you begin, ensure you have met the following requirements:
 
 * You have jupyter notebook installed
 * You have have at least an intermediate understanding of SQL and databases
-  Strongly suggest completing the "Introduction to SQL for Data Science", "Joining Data in SQL", and "Intermediate SQL" courses offered through DataCamp
+
+  If not, I strongly suggest completing the following course offered through DataCamp:
+  - Introduction to SQL for Data Science
+  - Joining Data in SQL
+  - Intermediate SQL
+  
 * You are familiar with relational databases in Python
-  Again, DataCamp offers a course called "Working with Relational Databases in Python", especially chapter 4, that will be sufficient for this requirement 
+  
+  If not, again DataCamp offers a course called "Working with Relational Databases in Python"
+  
+  specifically chapter 4 of this coursewill be sufficient for this requirement 
 
 ## Installing Country-Club-SQL
 To install Country-Club_SQL, follow these steps:
