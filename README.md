@@ -6,7 +6,7 @@ A case study using Juptyer Notebook and SQLite to tackle a series of business qu
 Before you begin, ensure you have met the following requirements:
 
 * You have jupyter notebook installed
-* You have have at least an intermediate understanding of SQL and databases
+* You have at least an intermediate understanding of SQL and databases
 
     If not, I strongly suggest completing the following courses offered through DataCamp:
       
