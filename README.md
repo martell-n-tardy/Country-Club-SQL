@@ -15,7 +15,7 @@ Before you begin, ensure you have met the following requirements:
   
 * You are familiar with relational databases in Python
   
-    If not, again DataCamp offers a course 
+    If not, again DataCamp offers a course: 
     - Working with Relational Databases in Python
     (specifically chapter 4 of this course will be sufficient for this requirement) 
 
