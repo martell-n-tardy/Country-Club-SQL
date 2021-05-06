@@ -1,6 +1,5 @@
 # Country-Club-SQL
-A case study using Juptyer Notebook and SQLite to tackle a series of business questions on a database containing information about a country club. 
-
+A case study exploring an external MySQL database containing information about a country club where particular pieces of information and requests are retrieved and translated into SQL queries in order to tackle a series of business questions.
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
@@ -51,6 +50,15 @@ Your SQL queries will occur directly on the `sqlite_db_pythonsqlite.db` database
 Just edit the query section of the `def select_all_tasks(conn)` function as seen below:
 
 ![Image](https://github.com/martell-n-tardy/Country-Club-SQL/blob/main/Function%20Image.png) <br />
+
+## Tools and Editors
+Juptyer Notebook, PHPMyAdmin, and SQLite
+
+## Case Study Involved
+* SQL intermediate concepts
+    - joins
+    - case statements
+    - sub queries
 
 ## Insights
 To review my queries for this case study, open the document **SQLTasks.sql**.
